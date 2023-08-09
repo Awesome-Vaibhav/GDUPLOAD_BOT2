@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "5457463964:AAHvbTRsUIU4KTNGlOVDdF1jkXSSmDqEEcg
+API_HASH="5a2684512006853f2e48aca9652d83ea"
+APP_ID="1747534"
+DATABASE_URL=postgresql-139382-0.cloudclusters.net"
+    SUDO_USERS = "1160615379 , 5798143340 , 1144738419" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
