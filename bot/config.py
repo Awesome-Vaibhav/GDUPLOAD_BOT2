@@ -5,8 +5,8 @@ APP_ID="1747534"
 DATABASE_URL=postgresql-139382-0.cloudclusters.net"
     SUDO_USERS = "1160615379 , 5798143340 , 1144738419" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "http://502873699392-vkca1498j2v47ul0p6jaf870pogtscvv.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
     SUPPORT_CHAT_LINK = ""
 
 
